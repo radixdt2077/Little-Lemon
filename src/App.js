@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h1>Little Lemon</h1>
+      <h1>Little Lemonn</h1>
     </>
   );
 }
